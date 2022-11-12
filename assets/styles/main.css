@@ -169,7 +169,7 @@ a {
     width: 35%;
     padding: 10px 10px 10px 45px;
     margin: 10px 0;
-    border: var(--header_bg_color) solid 2px;
+    border: #594DC2 solid 2px;
     border-radius: 15px;
     
 }
