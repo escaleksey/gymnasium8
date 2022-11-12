@@ -46,7 +46,7 @@
 	width: 30%;
 	height: 100%;
 	padding: 15px;
-  background: var(--header_bg_color);
+  background: #594DC2;
 	transform: translateX(-100%);
 	transition: transform 0.5s; 
 }
