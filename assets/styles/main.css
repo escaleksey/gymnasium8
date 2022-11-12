@@ -25,7 +25,7 @@ a {
 
 .header{
     width: 100%;
-    background-color: var(--header_bg_color);
+    background-color: #594DC2;
     height: 130px;
     box-shadow: 3px 3px 3px 1px #5a5959;
     position: relative;
@@ -102,7 +102,7 @@ a {
 
 
 .footer {
-    background-color: var(--header_bg_color);
+    background-color: #594DC2;
     color:#fff;
     padding: 17px 0;
 }
