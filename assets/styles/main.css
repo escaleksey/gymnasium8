@@ -245,6 +245,9 @@ a {
 }
 
 @media screen and (max-width: 570px) {
+    .file-item {
+        width: 100%;
+    }
     .container {
         max-width: 420px;
     }

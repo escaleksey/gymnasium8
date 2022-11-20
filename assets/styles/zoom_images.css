@@ -3,9 +3,6 @@
     width: 300px;
     cursor: pointer;
   }
-  .minimized:hover {
-    border: 1px solid yellow;
-  }
   /* увеличенная картинка */
   #magnify {
     display: none;
